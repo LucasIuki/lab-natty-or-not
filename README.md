@@ -20,20 +20,19 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+Eliza
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Video sobre a historia de Eliza
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+A historia de Eliza foi roteirizada pelo chatgpt e o video foi gerado no Pictory
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Pedi para o chatgpt criar um roteiro de uma história original e pedi para o Pictory gerar o video junto com a narração.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
-
+O Resultado foi um vídeo narrrando a história de Eliza com imagens que correspondem a cada item do roteiro
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
 ```
